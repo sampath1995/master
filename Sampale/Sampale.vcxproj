@@ -140,6 +140,7 @@
   <ItemGroup>
     <ClCompile Include="const.cpp" />
     <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="Factory.cpp" />
     <ClCompile Include="Hello.cpp" />
     <ClCompile Include="operatoroverloading.cpp" />
     <ClCompile Include="singleton.cpp" />
