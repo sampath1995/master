@@ -116,6 +116,7 @@ int main() {
 		}
 	}
 
+	std::cout << "New changes" << std::endl;
 	
 	std::cin.get();
 }
